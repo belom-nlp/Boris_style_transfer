@@ -3,7 +3,7 @@ Project for Deep Learninf School (2023 Fall)
 
 This repository contains a code for Telegram bot used for style transfer.
 Basically, I use code from here: https://pytorch.org/tutorials/advanced/neural_style_tutorial.html , with slight modifications appropriate for its usage within a Telegram bot framework.
-The repository contains Dockerfile, app.py file containing the code of the bot itself, and necessary requirements. The image of the container is uploaded to Dockerhub, so if you want to implement it on your own, simply use
+The repository contains Dockerfile, app.py file containing the code of the bot itself, and necessary requirements. The image of the container is uploaded to Dockerhub in a private repo.
 
 Here are the screenshots of how the bot works.
 
